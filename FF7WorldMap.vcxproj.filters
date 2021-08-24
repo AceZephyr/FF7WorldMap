@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="WORLD">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="REGISTRY">
+      <UniqueIdentifier>{6ce68509-7ed7-459b-974d-e0a46db37adf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="NEWFF7\C_0074BA80.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\C_0074C9A0.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\C_0074FFC0.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\C_00753860.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\C_0075AC80.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\C_0075E7A0.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\C_0075EE50.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\C_0075F090.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\C_00760FB0.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\C_007663E0.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\C_00766B70.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\C_00767D40.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\C_007688E0.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\C_00768C70.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\wmdefine.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\wmfile.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\C_00404D80.cpp">
+      <Filter>REGISTRY</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\C_004067A0.cpp">
+      <Filter>REGISTRY</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\C_0040A460.cpp">
+      <Filter>REGISTRY</Filter>
+    </ClCompile>
+    <ClCompile Include="NEWFF7\initpath.cpp">
+      <Filter>REGISTRY</Filter>
+    </ClCompile>
+    <ClCompile Include="FF7WorldMap.cpp">
+      <Filter>WORLD</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="NEWFF7\wm_data.h">
+      <Filter>WORLD</Filter>
+    </ClInclude>
+    <ClInclude Include="NEWFF7\ff7.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="NEWFF7\ff7_macros.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="NEWFF7\ff7_structs.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="NEWFF7\field_data.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="NEWFF7\loadmenu.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="NEWFF7\menu_data.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="NEWFF7\psx.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
